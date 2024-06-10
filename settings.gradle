@@ -1,0 +1,6 @@
+rootProject.name = 'Lab5'
+include 'WebMicroservice'
+include 'CatMicroservice'
+include 'UserMicroservice'
+include 'EntityModule'
+
